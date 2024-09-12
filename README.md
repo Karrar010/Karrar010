@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior at GIKI, interested in machine learning, <br>web development and cloud computing .<br>I am looking for collaboration on machine learning and deep <br>learning projects.
+I am a junior at GIKI, interested in machine learning, web development and cloud computing .<br>I am looking for collaboration on machine learning and deep learning projects.
 
 
 ## 🌐 Socials:
