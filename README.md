@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a junior at GIKI, interested in machine learning, web development and cloud computing .<br>I am looking for collaboration on machine learning and deep learning projects.
+Artificial Intelligence enthusiast skilled in Python, C++, machine learning, and YOLO-based computer vision. Experi-
+enced in NLP, deep learning, and collaborative problem-solving. Proficient in Linux, Docker, and software development,
+with a passion for generative AI and generative adversarial networks.
 
 
 ## 🌐 Socials:
